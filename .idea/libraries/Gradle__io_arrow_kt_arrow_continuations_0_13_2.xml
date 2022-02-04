@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.arrow-kt:arrow-continuations:0.13.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-continuations/0.13.2/79befc3ec3bd98e552805b66b487c4092de642b6/arrow-continuations-0.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-continuations/0.13.2/e0dbda4cc2d51741ce22f0b59fa7b7caa795cdfb/arrow-continuations-0.13.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-continuations/0.13.2/c0c69e7b3e39677cbf936d1ee2f0b75dab60c363/arrow-continuations-0.13.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

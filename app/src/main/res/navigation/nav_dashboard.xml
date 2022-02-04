@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_dashboard"
+    app:startDestination="@id/add_ride_fragment">
+
+
+    <fragment
+        android:id="@+id/add_ride_fragment"
+        android:name="com.provider.citoCabs.ui.fragments.addRides.AddRideFragment"
+        android:label="add_ride_fragment"
+        tools:layout="@layout/add_ride_fragment" />
+
+</navigation>
